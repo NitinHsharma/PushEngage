@@ -1,0 +1,7 @@
+{
+    "rabbitMQ": {
+        "connectionString": "amqp://172.17.0.4/",
+        "queueName": "notification",
+        "stringFormat": "utf8"
+    }
+}

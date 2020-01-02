@@ -1,0 +1,10 @@
+{
+    "rabbitMQ": {
+        "connectionString": "amqp://172.17.0.4/",
+        "queueName": "notification",
+        "stringFormat": "utf8"
+    },
+    "dbConfig": {
+        "host": "mongodb://172.17.0.2:27017/pushengage"
+    }
+}
